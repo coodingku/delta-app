@@ -1,1 +1,6 @@
-streamlit
+streamlitstreamlit
+pandas
+pyzbar
+Pillow
+streamlit-webrtc
+av
