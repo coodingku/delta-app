@@ -1,4 +1,4 @@
-streamlitstreamlit
+streamlit  <-- HARUSNYA SEPERTI INI
 pandas
 pyzbar
 Pillow
